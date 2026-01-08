@@ -1,6 +1,6 @@
 # README for doublethink-mcmc
 
-This code is released to coincide with publication of **Identifying direct risk factors in UK Biobank with simultaneous Bayesian-frequentist model-averaged hypothesis testing using Doublethink (2025)** by Nicolas Arning, Helen R Fryer and Daniel J Wilson [**doi**: https://doi.org/10.1101/2024.01.01.24300687](https://doi.org/10.1101/2024.01.01.24300687).
+This code is released to coincide with publication of **Identifying direct risk factors in UK Biobank with simultaneous Bayesian-frequentist model-averaged hypothesis testing using Doublethink (2025)** by Nicolas Arning, Helen R Fryer and Daniel J Wilson (2026) [*PNAS* 123(1): e2514138122](https://www.pnas.org/doi/full/10.1073/pnas.2514138122).
 
 ## Pre-requisites
 Install and run Docker with root privileges. On machines without root privileges, Apptainer might be an option.
